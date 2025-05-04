@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Matemática',
-    'Qual constante relaciona a circunverência com o seu diâmetro?',
-    'PI'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
