@@ -15,3 +15,9 @@ criaCartao(
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
+
+criaCartao(
+    'Matemática',
+    'Qual constante relaciona a circunverência com o seu diâmetro?',
+    'PI'
+)
