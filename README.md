@@ -46,6 +46,7 @@ Este projeto foi desenvolvido como parte das atividades da disciplina de Matemá
 - Analise o `style.css` para ver como os estilos são aplicados.
 - Estude o `app.js` e o `perguntas.js` para compreender a lógica do quiz.
 - Experimente modificar as perguntas ou estilos para personalizar a ferramenta.
+- [Tutorial](tutorial/tutorial.md)
 
 ---
 
