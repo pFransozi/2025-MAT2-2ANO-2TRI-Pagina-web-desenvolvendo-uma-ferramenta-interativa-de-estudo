@@ -26,6 +26,10 @@ Este projeto foi desenvolvido como parte das atividades da disciplina de Matemá
 ```
 2025-MAT2-2ANO-2TRI-Pagina-web-desenvolvendo-uma-ferramenta-interativa-de-estudo
 ├── assets/            # Imagens e outros recursos visuais
+├──── imgs             # Imagens do projeto
+├────── bg-desktop.webp
+├────── bg-mobile.webp
+├────── bg-tablet.webp
 ├──── style.css        # Estilos da interface
 ├── index.html         # Página principal do projeto
 ├── app.js             # Código JavaScript principal
